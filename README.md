@@ -1,9 +1,11 @@
 # Bank
 Above is the details of customers of bank with name xyz. the xyz bank have launched a new service in the bank (eg. edu.loan, buisness loan, home loan etc) AIm: build a Machine learning  model that can predict whether the customer will choose the service or not
 
-Tools and Libraries:
-Pandas:Used for data manipulation and analysis.
-NumPy:Utilized for numerical operations on data.
+**Tools and Libraries:**
+Pandas: Used for data manipulation and analysis.
+
+NumPy: Utilized for numerical operations on data.
+
 Matplotlib and seaborn: Employed for data visualization and creating insightful plots.
 
 **Highlights:**
